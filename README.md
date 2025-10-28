@@ -142,7 +142,7 @@ The system follows a **layered, hexagonal architecture** designed for scalabilit
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/intelligent-eda-agent.git
+git clone https://github.com/FiloHany/EDA_Agent.git
 cd intelligent-eda-agent
 
 # Install dependencies
